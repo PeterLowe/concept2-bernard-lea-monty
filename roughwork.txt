@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [bs]Remeber to put your initials in square brackets at rthe start of each section
 
 Title: [bs] Intergalatic Faith
@@ -5,6 +6,17 @@ Bernard
 
 Elevator pitch 
 [bs]Battle demon aliens throughout space. Who doesn't want to fight across the the depths of deep space and witness c beams across the the shoulder of orion?
+=======
+[BS]Remember to put your initials in square brackets at rthe start of each section
+
+[BS]Title: Intergalactic Faith 
+[BS] Bernard 
+
+Elevator pitch 
+[BS] An adventure game set in space where you travel new stuff
+across the galaxy. Who doesn't want to battle demon aliens in the depths of deep space? 
+ 
+>>>>>>> bernard
 ...
 World Background
 main differences in your game world
