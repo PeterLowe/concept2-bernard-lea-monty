@@ -1,22 +1,26 @@
 [pl]Remeber to put your initials in square brackets at rthe start of each section
 
 Title
-insert team member names here
+[TmM]Monty
 
 Elevator pitch 
-Describe your game in 30 seconds or less
+[TmM]Ever wanted to experience being an interstaller assassin apart of a secret creed protecting humanity from the authoritarian grip of another rival secret creed puppeteering from the shadows? Well, do we have the game for you!
 ...
 World Background
-main differences in your game world
+[TmM]Ancinet Rivalries going interstaller.
 ...
 Pillars
 3-4 fundementals of this game
+[TmM]Parkour, Freedom of movement in XYZ, spaceships replace horses lmao.
 ...
 30 second gameplay description
 describe what its like to play the essence of the game loop
+[TmM]Fight to free entire planets from the grip of the Interstellar Corporation controlled by the Templars via a shadow council. Liberate the planets and give them freedom to govern themselves.
 ...
 Features points
 key selling points of your game
+[TmM]Spaceship combat, Space Assassinations, Inter-Ship boarding.
 ...
 Market analysis
 similar games , typical customer, expected sales
+Middle Earth : Shadow of Mordor, Middle Earth : Shadow of War, Cyberpunk 2077, Elite Dangerous, Star Citizen, Rebel Galaxy Outlaw.
