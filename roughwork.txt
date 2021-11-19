@@ -4,7 +4,9 @@
 [BS] Bernard 
 
 Elevator pitch 
-[BS]Describe your game in 30 seconds or less
+[BS] An adventure game set in space where you travel
+across the galaxy. Who doesn't want to battle demon aliens in the depths of deep space? 
+ 
 ...
 World Background
 main differences in your game world
