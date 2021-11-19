@@ -1,13 +1,13 @@
 [ls]Remeber to put your initials in square brackets at the start of each section
 
 Title
-Assassin's Creed: Cosmic Revelations [ls]
+[ls] Assassin's Creed: Cosmic Revelations
 
 Elevator pitch 
 [ls] Your favourite franchaise in a new world! Fight cosmic oppponents and save the world!
 ...
 World Background
-main differences in your game world
+[ls] 
 ...
 Pillars
 3-4 fundementals of this game
