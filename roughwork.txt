@@ -42,8 +42,13 @@ World Background
 >>>>>>> 80f84aefd3a796d933a551a8cbce6abad843dd4f
 ...
 Pillars
+<<<<<<< HEAD
 3-4 fundementals of this game
 [TmM]Parkour, Freedom of movement in XYZ, spaceships replace horses lmao.
+=======
+[ls] Fighting, Exploration, Travelling, Survival
+
+>>>>>>> lea
 ...
 30 second gameplay description
 describe what its like to play the essence of the game loop
