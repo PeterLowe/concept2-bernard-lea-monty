@@ -1,7 +1,7 @@
-[pl]Remeber to put your initials in square brackets at rthe start of each section
+[BS]Remeber to put your initials in square brackets at rthe start of each section
 
 Title
-insert team member names here
+Bernard [BS]
 
 Elevator pitch 
 Describe your game in 30 seconds or less
