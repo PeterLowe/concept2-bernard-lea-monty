@@ -1,6 +1,7 @@
-[pl]Remeber to put your initials in square brackets at rthe start of each section
+[ls]Remeber to put your initials in square brackets at the start of each section
 
 Title
+<<<<<<< HEAD
 [TmM]Monty
 
 Elevator pitch 
@@ -8,6 +9,15 @@ Elevator pitch
 ...
 World Background
 [TmM]Ancinet Rivalries going interstaller.
+=======
+[ls] Assassin's Creed: Cosmic Revelations
+
+Elevator pitch 
+[ls] Your favourite franchaise in a new world! Fight cosmic oppponents and save the world!
+...
+World Background
+[ls] 
+>>>>>>> 80f84aefd3a796d933a551a8cbce6abad843dd4f
 ...
 Pillars
 3-4 fundementals of this game
