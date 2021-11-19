@@ -1,10 +1,10 @@
-[pl]Remeber to put your initials in square brackets at rthe start of each section
+[ls]Remeber to put your initials in square brackets at the start of each section
 
 Title
-insert team member names here
+Assassin's Creed: Cosmic Revelations [ls]
 
 Elevator pitch 
-Describe your game in 30 seconds or less
+[ls] Your favourite franchaise in a new world! Fight cosmic oppponents and save the world!
 ...
 World Background
 main differences in your game world
