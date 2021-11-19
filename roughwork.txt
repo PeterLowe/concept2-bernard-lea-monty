@@ -1,10 +1,10 @@
 [BS]Remember to put your initials in square brackets at rthe start of each section
 
-Title: Intergalactic Faith [BS]
-Bernard [BS]
+[BS]Title: Intergalactic Faith 
+[BS] Bernard 
 
 Elevator pitch 
-Describe your game in 30 seconds or less
+[BS]Describe your game in 30 seconds or less
 ...
 World Background
 main differences in your game world
