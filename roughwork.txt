@@ -1,58 +1,30 @@
+
 <<<<<<< HEAD
-<<<<<<< HEAD
-[bs]Remeber to put your initials in square brackets at rthe start of each section
-
-Title: [bs] Intergalatic Faith
-Bernard
-
-Elevator pitch 
-[bs]Battle demon aliens throughout space. Who doesn't want to fight across the the depths of deep space and witness c beams across the the shoulder of orion?
-=======
-[BS]Remember to put your initials in square brackets at rthe start of each section
-
-[BS]Title: Intergalactic Faith 
-[BS] Bernard 
-
-Elevator pitch 
-[BS] An adventure game set in space where you travel new stuff
-across the galaxy. Who doesn't want to battle demon aliens in the depths of deep space? 
- 
->>>>>>> bernard
-=======
-[ls]Remeber to put your initials in square brackets at the start of each section
-
-Title
-<<<<<<< HEAD
-[TmM]Monty
-
-Elevator pitch 
-[TmM]Ever wanted to experience being an interstaller assassin apart of a secret creed protecting humanity from the authoritarian grip of another rival secret creed puppeteering from the shadows? Well, do we have the game for you!
->>>>>>> fa8e179899dcfa84dc4f6b5a012c8a1615d552fc
+[TmM]Monty [ls]Lea [[bs]Bernard
+[bs][ls][TmM] Remeber to put your initials in square brackets at the start of each section
+...
+Title: 
+[bs][ls][TmM] Assissin's Creed: Interstellar
+...
+Elevator pitch
+[bs][ls][TmM] Your favourite franchaise in a new world! Ever wanted to experience being an interstaller assassin apart of a secret creed protecting humanity from the authoritarian grip of another rival secret creed puppeteering from the shadows? Well, do we have the game for you!
 ...
 World Background
-[TmM]Ancinet Rivalries going interstaller.
-=======
-[ls] Assassin's Creed: Cosmic Revelations
-
-Elevator pitch 
-[ls] Your favourite franchaise in a new world! Fight cosmic oppponents and save the world!
-...
-World Background
-[ls] 
->>>>>>> 80f84aefd3a796d933a551a8cbce6abad843dd4f
+[bs][ls][TmM] Ancinet Rivalries going interstaller.
 ...
 Pillars
 3-4 fundementals of this game
-[TmM]Parkour, Freedom of movement in XYZ, spaceships replace horses lmao.
+[bs][ls][TmM] Role-playing, Freedom of movement in XYZ, Travelling - spaceships replace horses, Explore deep space
 ...
 30 second gameplay description
 describe what its like to play the essence of the game loop
-[TmM]Fight to free entire planets from the grip of the Interstellar Corporation controlled by the Templars via a shadow council. Liberate the planets and give them freedom to govern themselves.
+[bs][ls][TmM] Fight to free entire planets from the grip of the Interstellar Corporation controlled by the Templars via a shadow council. Liberate the planets and give them freedom to govern themselves.
 ...
 Features points
 key selling points of your game
-[TmM]Spaceship combat, Space Assassinations, Inter-Ship boarding.
+[bs][ls][TmM] Spaceship combat, Space Assassinations, Inter-Ship boarding, NFT spaceships.
 ...
 Market analysis
 similar games , typical customer, expected sales
-Middle Earth : Shadow of Mordor, Middle Earth : Shadow of War, Cyberpunk 2077, Elite Dangerous, Star Citizen, Rebel Galaxy Outlaw.
+[bs][ls][TmM]  Middle Earth : Shadow of Mordor, Middle Earth : Shadow of War, Cyberpunk 2077, Elite Dangerous, Star Citizen, Rebel Galaxy Outlaw, Destiny 2.
+=======
