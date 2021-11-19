@@ -1,0 +1,22 @@
+[pl]Remeber to put your initials in square brackets at rthe start of each section
+
+Title
+insert team member names here
+
+Elevator pitch 
+Describe your game in 30 seconds or less
+...
+World Background
+main differences in your game world
+...
+Pillars
+3-4 fundementals of this game
+...
+30 second gameplay description
+describe what its like to play the essence of the game loop
+...
+Features points
+key selling points of your game
+...
+Market analysis
+similar games , typical customer, expected sales
