@@ -10,7 +10,8 @@ World Background
 [ls] 
 ...
 Pillars
-3-4 fundementals of this game
+[ls] Fighting, Exploration, Travelling, Survival
+
 ...
 30 second gameplay description
 describe what its like to play the essence of the game loop
