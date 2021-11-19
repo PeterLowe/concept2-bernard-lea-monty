@@ -20,36 +20,31 @@ across the galaxy. Who doesn't want to battle demon aliens in the depths of deep
 >>>>>>> bernard
 =======
 [ls]Remeber to put your initials in square brackets at the start of each section
+[TmM]Monty [ls]Lea
 
 Title
 <<<<<<< HEAD
-[TmM]Monty
+[ls] Assassin's Creed: Cosmic Revelations
+[TmM] Assissin's Creed: Interstellar
 
 Elevator pitch 
 [TmM]Ever wanted to experience being an interstaller assassin apart of a secret creed protecting humanity from the authoritarian grip of another rival secret creed puppeteering from the shadows? Well, do we have the game for you!
->>>>>>> fa8e179899dcfa84dc4f6b5a012c8a1615d552fc
-...
-World Background
-[TmM]Ancinet Rivalries going interstaller.
-=======
-[ls] Assassin's Creed: Cosmic Revelations
-
-Elevator pitch 
-[ls] Your favourite franchaise in a new world! Fight cosmic oppponents and save the world!
-...
-World Background
-[ls] 
->>>>>>> 80f84aefd3a796d933a551a8cbce6abad843dd4f
-...
-Pillars
 <<<<<<< HEAD
-3-4 fundementals of this game
-[TmM]Parkour, Freedom of movement in XYZ, spaceships replace horses lmao.
+>>>>>>> fa8e179899dcfa84dc4f6b5a012c8a1615d552fc
 =======
-[ls] Fighting, Exploration, Travelling, Survival
+[ls] Your favourite franchaise in a new world! Fight cosmic oppponents and save the world!
 
 >>>>>>> lea
 ...
+World Background
+[TmM]Ancinet Rivalries going interstaller.
+
+Pillars
+3-4 fundementals of this game
+[TmM]Parkour, Freedom of movement in XYZ, spaceships replace horses
+[ls] Fighting, Exploration, Travelling, Survival
+...
+
 30 second gameplay description
 describe what its like to play the essence of the game loop
 [TmM]Fight to free entire planets from the grip of the Interstellar Corporation controlled by the Templars via a shadow council. Liberate the planets and give them freedom to govern themselves.
@@ -61,3 +56,4 @@ key selling points of your game
 Market analysis
 similar games , typical customer, expected sales
 Middle Earth : Shadow of Mordor, Middle Earth : Shadow of War, Cyberpunk 2077, Elite Dangerous, Star Citizen, Rebel Galaxy Outlaw.
+=======
